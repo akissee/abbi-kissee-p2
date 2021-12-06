@@ -2,13 +2,15 @@
 
 Abbi Kissee's Project 2 for ITDEV 160-002
 
-A webpage designed to be an editable monthly budget creator. This will allow the user to enter their income for the month and also input all of the monthly expenses. Then it will complete all the computations and display the information in a table outlining the budget for that month. It will allow you to input multiple months and see all the monthly totals listed. When each month is created they will be able to save it and it will save as a new tab on the page, so they can look through each month seperately.
+A webpage designed to your one stop shop for Dune (2021) Movie reviews. The film just dropped and I wanted to create a page where you could read other peoples reviews of the movie as well as add your own post. I hope to have an image and a header that states the title of the page and features a "Create New Post" button as well as a logo.
 
-There will be a welcome statement and a brief explaination to the user. Then they will be able to input the month, the income, and the expenses. Then the program will populate all the data into a table. Once the table is created the user will be able to click 'Save' or 'Submit' and this will save it into its own tab under monthly budgets. They can create more and then they will all be listed by the month. When the user clicks on the month they would like to view it will show that table with the data clearing out the previously viewed table.
+There will be a header which will feature a "Create New Post" button which users can click on to pop up an input box where they can make a personalized review including a title, content, and name space. Once they select the save button on the input box they are then able to see their review show up on the page next in line with the others.
 
-Dynamic Time of Day Welcome
-Brief explanation of the program
-Input boxes allowing Month, Income, Expenses
-'Save' button
-Tabs created when 'Save' is selected
-Tabs are titled by month and will display the associated month's budget table
+Header with logo and Create New Post button.
+Photo of the movie.
+List of reviews with titles, content, and names listed underneath.
+Witin the 'Create New Post' button pop-up window is the text boxes for Title, Name, and Content.
+As well as a 'Cancel' and 'Save' buttons.
+'Save' button will close the pop-up and display their review on the page.
+'Cancel' button will clear all fields.
+Footer displaying copywrite.
